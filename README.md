@@ -1,5 +1,6 @@
 
 AI-Powered Chatbot for Supplier and Product Information
+
 Overview
 This project implements an AI-powered chatbot that interacts with a supplier and product database using natural language. The chatbot fetches relevant product and supplier information, summarizes data using a Large Language Model (LLM), and presents it to the user in a conversational interface. It uses LangGraph for agent workflows, FastAPI for the backend, React for the frontend, and MySQL/PostgreSQL for the database.
 
@@ -10,8 +11,8 @@ Product Comparison: Allows users to compare multiple products by their attribute
 Chatbot Memory: Recalls user preferences from previous queries.
 JWT Authentication: Ensures secure access to the system.
 Analytics Dashboard: Tracks popular queries and chatbot usage patterns.
-Technologies Used
 
+Technologies Used
 Backend:
 FastAPI
 LangGraph
