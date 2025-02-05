@@ -1,0 +1,2 @@
+npx create-react-app .
+npm install @mui/material axios redux react-redux
